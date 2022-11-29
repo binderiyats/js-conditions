@@ -72,7 +72,7 @@ switch(day){
 }
 
 // #5
-let hours = 4, ratePerHour = 28, tsalin;
+let hours = 40, ratePerHour = 28, tsalin;
 tsalin = hours * ratePerHour
 console.log(tsalin)
 
